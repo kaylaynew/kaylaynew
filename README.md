@@ -1,8 +1,6 @@
 ### Olá! Eu sou Kaylayne Wallace 🤗
 ![kaylaynew GitHub stats](https://github-readme-stats.vercel.app/api?username=kaylaynew&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylayne&layout=compact)](https://github.com/kaylaynew/github-readme-stats)
-
 ## Tecnologias que eu utilizo no meu dia
 
 <div style="display: inline_block"><br/>
